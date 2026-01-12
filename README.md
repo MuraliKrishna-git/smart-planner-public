@@ -96,8 +96,8 @@ graph TD
         Web
         Android
         Desktop
-        Store[PlanStore (Signals)]
-        LocalDB[LocalStorage / SecureStorage]
+        Store["PlanStore (Signals)"]
+        LocalDB["LocalStorage / SecureStorage"]
     end
     
     subgraph "Your Cloud (BYOK)"
