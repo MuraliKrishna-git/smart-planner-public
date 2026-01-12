@@ -130,7 +130,8 @@ graph TD
 
 **Community Support:**
 *   **GitHub Issues:** Report bugs or request features.
-*   **Discord:** [Join our Community](#) (Link in App Profile)
+*   **Discord:** [Join our Community](https://discord.gg/H5wdzFAb) (Link in App Profile)
+*   **E-Mail:** [Mail me](mailto:muralikrishna.professional1@gmail.com?subject=Contact%20from%20Profile) (Link in App Profile)
 
 **Reporting Issues:**
 When reporting issues, please include:
